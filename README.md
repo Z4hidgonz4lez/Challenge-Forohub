@@ -51,40 +51,38 @@ Cliente → API REST → Controladores → Servicios → Repositorios → Postgr
 ```
 
 ---
-
 # Tecnologías utilizadas
 
 ### Lenguaje de programación
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Framework backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat)
 
 ### Autenticación
 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
 
 ### Base de datos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### Documentación de API
 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat\&logo=swagger)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger)
 
 ### Herramientas
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat\&logo=apachemaven)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat\&logo=intellij-idea)
-
----
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 # Estructura del proyecto
 
 El proyecto está organizado en distintos paquetes que separan responsabilidades dentro del sistema.
